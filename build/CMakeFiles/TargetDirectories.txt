@@ -1,0 +1,8 @@
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/test_sosp.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/mosp_hybrid.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/mosp_proj.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/test_graph.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/test_mpi_distributor.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/test.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/edit_cache.dir
+/home/haziq/Desktop/PDC-Final/build/CMakeFiles/rebuild_cache.dir

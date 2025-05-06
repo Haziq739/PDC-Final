@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_sosp.dir/test/test_sosp.cpp.o CMakeFiles/test_sosp.dir/src/sosp_engine.cpp.o CMakeFiles/test_sosp.dir/src/graph.cpp.o -o test_sosp  /usr/lib/x86_64-linux-gnu/libmetis.so /usr/lib/gcc/x86_64-linux-gnu/12/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
